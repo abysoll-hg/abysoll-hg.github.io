@@ -1,22 +1,20 @@
 # My CMU Game Website Plan
 
 ## Student Information
-- **Name:** Your Name Here
-- **Class Period:** Your Class Period
-- **Project Title:** My CMU Game Website
+- **Project Title:** Circle Clicker
 
 ---
 
 # 1. CMU Game Selection
 
 ## Game Title
-My game is called **Space Dodger**.
+My game is called **Circle Clicker**.
 
 ## Link to the Game
-[Play My Game Here](https://academy.cs.cmu.edu/sharing/example-link)
+[Play My Game Here](https://academy.cs.cmu.edu/sharing/moccasinDog215754)
 
 ## Short Description
-This is a fast-paced arcade game where the player controls a spaceship and avoids incoming asteroids while collecting power-ups.
+This is a fast-paced arcade game where the player clicks 100 circles as quickly as possible as they move across the screen and returns the player's accuracy along with other factors.
 
 ---
 
@@ -152,7 +150,7 @@ The writing on the page will:
 # 9. Reflection
 
 ## What I Think Will Be Most Challenging
-The hardest part will probably be making the layout look professional and making the website responsive on different screen sizes.
+The most challenging part will be effectively embedding the game in a correct resolution that works best and having the mouse move in and out of the iFrame.
 
 ## What I Am Most Excited About
-I am most excited about customizing the visual design and sharing my game online using GitHub Pages.
+I am most excited about sharing a game I enjoyed creating with other people and refreshing my HTML, CSS, and JavaScript skills.
