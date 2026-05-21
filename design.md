@@ -44,18 +44,22 @@ My website will include:
 
 HEADER / TITLE
 ------------------------------------------------
+Circle Clicker
 
 GAME SCREENSHOT OR BANNER
 ------------------------------------------------
 
 ABOUT THE GAME | HOW TO PLAY | HIGH SCORES
 ------------------------------------------------
+How to play: click the circles and don't miss as they move try to have 100% accuracy and keep going until 100 circles!
 
 PLAYABLE GAME AREA
 ------------------------------------------------
+Good resolution would be using a fraction of the screen not a perfect resolution already defined, but on a 1920x1080 screen, probably 800x600.
 
 ABOUT THE DEVELOPER
 ------------------------------------------------
+I am a sophomore in high school who wants to be in cybersecurity when older.
 
 FOOTER
 ------------------------------------------------
