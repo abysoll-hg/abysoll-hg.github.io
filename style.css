@@ -7,10 +7,12 @@ h1 {
     background-color: skyblue;
     text-align: center;
 }
-iframe {
+.game-container {
     border-width: 10px;
     border-style: double;
     border-color: blue;
     background-color: aquamarine;
+    display: flex;
+    justify-content: center;
     align-items: center;
 }
